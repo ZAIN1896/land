@@ -1,0 +1,6 @@
+MAC @wifi.id
+94:01:C2:B9:42:09
+1C:65:9D:93:C1:AD
+
+MAC original Redmi 3S Prime (3/32)
+78:02:f8:38:96:5f
