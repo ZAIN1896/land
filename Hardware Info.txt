@@ -1,0 +1,20 @@
+Flash: TYE0IH231658RA-Toshiba, Mem: 3GB
+Flash_fw: 0x3
+LCD: hx8394F_HD720p_video_BOE
+TP: OUFEI_HD, FT5336, FW: 0x8, Golden
+Camera_Main: s5k3l8
+Camera_Main_modID: O-film
+Camera_Sub: ov5670
+Camera_Sub_modID: Sunny
+WIFI: Qualcomm
+BT: Qualcomm
+FM: Qualcomm
+GPS: Qualcomm
+Battery: qrd_msm8937_Desay_4000mah
+BoardID: S88537AA1
+FingerPrint: goodix
+Sec Dat: 0x303030
+Accleerometer: BMI160
+Magnetometer: YAS537
+Gyroscop: BMI160
+Alsps: LTR55X
