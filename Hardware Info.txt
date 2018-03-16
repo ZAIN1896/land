@@ -14,7 +14,7 @@ Battery: qrd_msm8937_Desay_4000mah
 BoardID: S88537AA1
 FingerPrint: goodix
 Sec Dat: 0x303030
-Accleerometer: BMI160
+Accelerometer: BMI160
 Magnetometer: YAS537
-Gyroscop: BMI160
+Gyroscope: BMI160
 Alsps: LTR55X
