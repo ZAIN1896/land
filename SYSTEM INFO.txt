@@ -5,13 +5,13 @@ MEID: 99000941358543
 IMEI: 863316037460884
 IMEI2: 863316037460892
 SN: 8N645Y066345
-EFS: V140	Factory Test Mode: online mode
+EFS: V140    Factory Test Mode: online mode
 
-cali_gsm: PASS		cali_gsm_multi: PASS
-cali_td: PASS		cali_td_multi: PASS
-cali_w: PASS		cali_w_multi: PASS
-cali_cdma: PASS		cali_cdma_multi: PASS
-cali_tdd: PASS		cali_tdd_multi: PASS
-cali_fdd: PASS		cali_fdd_multi: PASS
+cali_gsm: PASS      cali_gsm_multi: PASS
+cali_td: PASS       cali_td_multi: PASS
+cali_w: PASS        cali_w_multi: PASS
+cali_cdma: PASS     cali_cdma_multi: PASS
+cali_tdd: PASS      cali_tdd_multi: PASS
+cali_fdd: PASS      cali_fdd_multi: PASS
 
 BoardID: S88537AA1
